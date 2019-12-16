@@ -1,0 +1,108 @@
+.wrapper_dashboard {
+  background: #eef1f7;
+  padding: 0 50px 0 50px;
+  font-family: 'HoneywellSansWeb-Bold';
+
+  .main {
+    //background: white;
+    min-height: 250px;
+    border-radius: 0px 0px 15px 15px;
+
+    .row1Actual {
+      align-items: center;
+      padding-bottom: 30px;
+      .col1 {
+        .row1 {
+          /* padding-bottom: 10px; */
+          /* padding-right: 31px; */
+          .title {
+            font-size: 14px;
+            color: #7d89ad;
+          }
+
+          .metric {
+            font-size: 40px;
+            color: #504848;
+
+            .percentageIncrease {
+              font-size: 12px;
+            }
+          }
+        }
+        .row2 {
+          padding: 20px;
+          padding-top: 40px;
+          padding-left: 0;
+
+          & > div {
+            padding-right: 15px;
+            border-right: solid thin #ddd;
+
+            &:nth-child(2) {
+              padding-left: 20px;
+            }
+          }
+
+          .title {
+            font-size: 13px;
+            color: #7d89ad;
+          }
+          .metric {
+            font-size: 14px;
+            color: black;
+          }
+        }
+      }
+      .uk-divider-vertical {
+        width: 1px;
+        height: 100px;
+        margin-left: 60px;
+        margin-right: 50px;
+        border-left: 1px solid #ccc;
+      }
+    }
+
+    .row3 {
+      .tile {
+        margin-bottom: -40px;
+        margin-right: 40px;
+        padding: 20px;
+        border: solid thin #ccc;
+
+        padding-left: 30px;
+        padding-right: 100px;
+        padding-bottom: 30px;
+        color: white;
+        border-radius: 5px;
+
+        background-image: url('../../../assets/tileBackgnd.png');
+        .metric {
+          font-size: 18px;
+        }
+        .sbg {
+          font-size: 13px;
+        }
+      }
+    }
+  }
+
+  .graphGrid {
+    margin-top: 100px;
+
+    .layout {
+      & > div {
+        //background: white;
+        margin: 15px;
+      }
+    }
+    .react-grid-item {
+    }
+
+    .title {
+      margin-top: 55px;
+      margin-bottom: -27px;
+      padding-left: 0px;
+      font-size: 24px;
+    }
+  }
+}

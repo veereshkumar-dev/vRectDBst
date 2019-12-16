@@ -1,0 +1,70 @@
+body {
+  @font-face {
+    font-family: 'HoneywellSansWeb-Book';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./HoneywellSansWeb-Book.ttf');
+    src: url('./HoneywellSansWeb-Book.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Book.eot?#iefix') format('embedded-opentype'),
+      /* IE6-IE8 */ url('./HoneywellSansWeb-Book.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./HoneywellSansWeb-Book.woff') format('woff'),
+      /* Modern Browsers */ url('./HoneywellSansWeb-Book.ttf') format('truetype'),
+      /* Safari, Android, iOS */ url('./HoneywellSansWeb-Book.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'HoneywellSansWeb-Light';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./HoneywellSansWeb-Light.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Light.eot?#iefix') format('embedded-opentype'),
+      /* IE6-IE8 */ url('./HoneywellSansWeb-Light.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./HoneywellSansWeb-Light.woff') format('woff'),
+      /* Modern Browsers */ url('./HoneywellSansWeb-Light.ttf') format('truetype'),
+      /* Safari, Android, iOS */ url('./HoneywellSansWeb-Light.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'HoneywellSansWeb-Medium';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./HoneywellSansWeb-Medium.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Medium.eot?#iefix') format('embedded-opentype'),
+      /* IE6-IE8 */ url('./HoneywellSansWeb-Medium.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./HoneywellSansWeb-Medium.woff') format('woff'),
+      /* Modern Browsers */ url('./HoneywellSansWeb-Medium.ttf') format('truetype'),
+      /* Safari, Android, iOS */ url('./HoneywellSansWeb-Medium.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'HoneywellSansWeb-Black';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./HoneywellSansWeb-Black.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Black.eot?#iefix') format('embedded-opentype'),
+      /* IE6-IE8 */ url('./HoneywellSansWeb-Black.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./HoneywellSansWeb-Black.woff') format('woff'),
+      /* Modern Browsers */ url('./HoneywellSansWeb-Black.ttf') format('truetype'),
+      /* Safari, Android, iOS */ url('./HoneywellSansWeb-Black.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'HoneywellSansWeb-ExtraBold';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./HoneywellSansWeb-ExtraBold.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'),
+      url('./HoneywellSansWeb-ExtraBold.eot?#iefix') format('embedded-opentype'),
+      /* IE6-IE8 */ url('./HoneywellSansWeb-ExtraBold.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./HoneywellSansWeb-ExtraBold.woff') format('woff'),
+      /* Modern Browsers */ url('./HoneywellSansWeb-ExtraBold.ttf') format('truetype'),
+      /* Safari, Android, iOS */ url('./HoneywellSansWeb-ExtraBold.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'HoneywellSansWeb-Bold';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./HoneywellSansWeb-Bold.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Bold.eot?#iefix') format('embedded-opentype'),
+      /* IE6-IE8 */ url('./HoneywellSansWeb-Bold.woff2') format('woff2'),
+      /* Super Modern Browsers */ url('./HoneywellSansWeb-Bold.woff') format('woff'),
+      /* Modern Browsers */ url('./HoneywellSansWeb-Bold.ttf') format('truetype'),
+      /* Safari, Android, iOS */ url('./HoneywellSansWeb-Bold.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+}

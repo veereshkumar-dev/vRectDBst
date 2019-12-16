@@ -1,0 +1,25 @@
+.wrapper_sideaccordion {
+  width: 200px;
+  padding-left: 10px;
+  padding-right: 5px;
+
+  ul {
+    width: 100%;
+  }
+
+  .uk-accordion-title {
+    font-family: 'HoneywellSansWeb-Bold';
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  label {
+    font-family: 'HoneywellSansWeb-Bold';
+    font-size: 14px;
+  }
+
+  .uk-checkbox {
+    margin-right: 15px;
+    margin-left: 10px;
+  }
+}

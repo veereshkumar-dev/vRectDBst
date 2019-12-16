@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'HoneywellSansWeb-ExtraBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./HoneywellSansWeb-Extrabold.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Extrabold.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('./HoneywellSansWeb-Extrabold.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('./HoneywellSansWeb-Extrabold.woff') format('woff'),
+    /* Modern Browsers */ url('./HoneywellSansWeb-Extrabold.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('./HoneywellSansWeb-Extrabold.svg#OpenSans') format('svg'); /* Legacy iOS */
+}

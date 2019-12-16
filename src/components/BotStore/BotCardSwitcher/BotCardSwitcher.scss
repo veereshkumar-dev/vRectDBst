@@ -1,0 +1,35 @@
+.wrapper_botcardswitcher {
+  .blackBackdrop {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background: black;
+    top: 0;
+    left: 0;
+    margin-left: 50px;
+    z-index: 1;
+  }
+
+  .botFlipper {
+    margin-top: 15px;
+  }
+
+  .expandedCard {
+    position: absolute;
+    //transform: translateX(-75%);
+    left: 80px;
+
+    .extraCard {
+      //margin-right: 30px;
+
+      .recharts-surface {
+        background: white;
+      }
+    }
+
+    .wrapper_graph2 {
+      padding-right: 15px;
+      margin-left: 20px;
+    }
+  }
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HoneywellSansWeb-Book';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./HoneywellSansWeb-Book.ttf');
+  src: url('./HoneywellSansWeb-Book.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans'), local('OpenSans'), url('./HoneywellSansWeb-Book.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('./HoneywellSansWeb-Book.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('./HoneywellSansWeb-Book.woff') format('woff'),
+    /* Modern Browsers */ url('./HoneywellSansWeb-Book.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('./HoneywellSansWeb-Book.svg#OpenSans') format('svg'); /* Legacy iOS */
+}

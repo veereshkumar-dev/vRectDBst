@@ -1,0 +1,29 @@
+.wrapper_bs_rating {
+  .star-rating {
+    display: flex;
+    font-size: 1.5em;
+    justify-content: space-around;
+    margin-left: -5px;
+    text-align: center;
+    width: 5em;
+
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+
+  .star-rating input {
+    display: none;
+  }
+
+  .star-rating label {
+    cursor: pointer;
+    color: #ddd;
+
+    &.active {
+      color: #ff6b00;
+    }
+  }
+}

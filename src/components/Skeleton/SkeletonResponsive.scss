@@ -1,0 +1,57 @@
+$break-small: 1400px;
+$break-large: 2000px;
+
+body {
+  .wrapper_dashboard {
+    @media screen and (max-width: $break-small) {
+      padding-left: 40px;
+
+      .row1Actual {
+        .col1 {
+          .row1 {
+            width: 273px !important;
+          }
+        }
+
+        .row1 {
+          .metric {
+            font-size: 38px;
+          }
+        }
+
+        .uk-divider-vertical {
+          margin-left: 50px;
+          margin-right: 10px !important;
+
+          &:nth-child(2) {
+            margin-left: 10px !important;
+          }
+        }
+
+        .pie1 {
+          .recharts-wrapper {
+            width: 400px !important;
+            height: 300px !important;
+          }
+        }
+      }
+
+      .row3 {
+        @media screen and (max-width: $break-small) {
+          max-width: 1200px;
+          flex-wrap: wrap;
+
+          .tile {
+            margin-bottom: 20px !important;
+          }
+        }
+      }
+
+      .graphGrid {
+        .gridWrap {
+          margin-left: -30px;
+        }
+      }
+    }
+  }
+}

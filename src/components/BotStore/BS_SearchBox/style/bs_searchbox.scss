@@ -1,0 +1,60 @@
+.wrapper_bs_searchbox {
+  .cancleButton {
+    background: #ffffff;
+    border: solid thin #ddd;
+    border-left: none;
+    border-right: none;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &:focus {
+      border: none;
+      outline: -webkit-focus-ring-color auto 0px;
+      border: solid thin #ddd;
+      border-left: none;
+      border-right: none;
+      background: #ffffff;
+    }
+  }
+
+  .searchButton {
+    border: solid thin #1890ff;
+    border-left: none;
+    border-right: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #1890ff;
+    color: white;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    svg {
+      fill: white;
+
+      * {
+        stroke: white;
+      }
+    }
+  }
+
+  .uk-search-input {
+    background: white;
+    border-right: none;
+
+    &:focus {
+      background: white;
+      background-color: white;
+    }
+  }
+
+  form {
+    width: 30%;
+    box-shadow: 0px 0px 6px -1px #999;
+  }
+}

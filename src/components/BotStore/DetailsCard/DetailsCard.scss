@@ -1,0 +1,23 @@
+.wrapper_detailscard {
+  background: white;
+
+  .content {
+    padding: 10px;
+    padding-left: 15px;
+
+    .heading {
+      font-family: 'HoneywellSansWeb-Bold';
+    }
+    .desc {
+      font-family: 'HoneywellSansWeb-Book';
+
+      .currentYear {
+        padding-right: 15px;
+        border-right: solid thin #ccc;
+      }
+      .fiveYears {
+        padding-left: 15px;
+      }
+    }
+  }
+}

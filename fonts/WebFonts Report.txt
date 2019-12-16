@@ -1,0 +1,570 @@
+Web Fonts:
+**********
+
+HoneywellCondWeb-BoldItalic.ttf
+-------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-BoldItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BoldItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BoldItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BoldItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BoldItalic.svg
+
+
+HoneywellCondWeb-Book.ttf
+-------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-Book.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Book.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Book.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Book.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Book.svg
+
+
+HoneywellCondWeb-BookItalic.ttf
+-------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-BookItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BookItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BookItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BookItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-BookItalic.svg
+
+
+HoneywellCondWeb-Extrabold.ttf
+------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-Extrabold.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Extrabold.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Extrabold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Extrabold.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Extrabold.svg
+
+
+HoneywellCondWeb-ExtraboldItalic.ttf
+------------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-ExtraboldItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-ExtraboldItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-ExtraboldItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-ExtraboldItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-ExtraboldItalic.svg
+
+
+HoneywellCondWeb-Light.ttf
+--------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-Light.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Light.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Light.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Light.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Light.svg
+
+
+HoneywellCondWeb-LightItalic.ttf
+--------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-LightItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-LightItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-LightItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-LightItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-LightItalic.svg
+
+
+HoneywellCondWeb-Medium.ttf
+---------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-Medium.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Medium.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Medium.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Medium.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-Medium.svg
+
+
+HoneywellCondWeb-MediumItalic.ttf
+---------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellCondWeb-MediumItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-MediumItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-MediumItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-MediumItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellCondWeb-MediumItalic.svg
+
+
+HoneywellSansCyrWeb-Bold.ttf
+----------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansCyrWeb-Bold.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Bold.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Bold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Bold.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Bold.svg
+
+
+HoneywellSansCyrWeb-BoldItalic.ttf
+----------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansCyrWeb-BoldItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BoldItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BoldItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BoldItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BoldItalic.svg
+
+
+HoneywellSansCyrWeb-Book.ttf
+----------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansCyrWeb-Book.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Book.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Book.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Book.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-Book.svg
+
+
+HoneywellSansCyrWeb-BookItalic.ttf
+----------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansCyrWeb-BookItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BookItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BookItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BookItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansCyrWeb-BookItalic.svg
+
+
+HoneywellSansWeb-Black.ttf
+--------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-Black.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Black.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Black.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Black.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Black.svg
+
+
+HoneywellSansWeb-BlackItalic.ttf
+--------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-BlackItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BlackItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BlackItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BlackItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BlackItalic.svg
+
+
+HoneywellSansWeb-Bold.ttf
+-------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-Bold.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Bold.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Bold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Bold.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Bold.svg
+
+
+HoneywellSansWeb-BoldItalic.ttf
+-------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-BoldItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BoldItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BoldItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BoldItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BoldItalic.svg
+
+
+HoneywellSansWeb-Book.ttf
+-------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-Book.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Book.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Book.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Book.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Book.svg
+
+
+HoneywellSansWeb-BookItalic.ttf
+-------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-BookItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BookItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BookItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BookItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-BookItalic.svg
+
+
+HoneywellSansWeb-Extrabold.ttf
+------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-Extrabold.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Extrabold.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Extrabold.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Extrabold.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Extrabold.svg
+
+
+HoneywellSansWeb-ExtraboldItalic.ttf
+------------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-ExtraboldItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-ExtraboldItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-ExtraboldItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-ExtraboldItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-ExtraboldItalic.svg
+
+
+HoneywellSansWeb-Light.ttf
+--------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-Light.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Light.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Light.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Light.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Light.svg
+
+
+HoneywellSansWeb-LightItalic.ttf
+--------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-LightItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-LightItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-LightItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-LightItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-LightItalic.svg
+
+
+HoneywellSansWeb-Medium.ttf
+---------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-Medium.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Medium.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Medium.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Medium.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-Medium.svg
+
+
+HoneywellSansWeb-MediumItalic.ttf
+---------------------------------
+source: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/HoneywellSansWeb-MediumItalic.ttf
+
+Build WOFF (TTF)
+''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-MediumItalic.woff
+    Source is binary a TTF file.
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-MediumItalic.woff2
+
+Build EOT
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-MediumItalic.eot
+
+Build SVG
+'''''''''
+    path: /Users/jeremymickel/Dropbox/CLIENTS/HON-Honeywell/HoneywellDegree/Mastering_tcedilla/fonts/processed_fonts/webfonts/HoneywellSansWeb-MediumItalic.svg
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14
